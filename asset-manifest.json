@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/myreactportfolio/static/css/main.e4f88c9b.chunk.css",
+    "main.js": "/myreactportfolio/static/js/main.5146d16b.chunk.js",
+    "main.js.map": "/myreactportfolio/static/js/main.5146d16b.chunk.js.map",
+    "runtime-main.js": "/myreactportfolio/static/js/runtime-main.db3d49ec.js",
+    "runtime-main.js.map": "/myreactportfolio/static/js/runtime-main.db3d49ec.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/myreactportfolio/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.87b4ecbf.chunk.js": "/myreactportfolio/static/js/2.87b4ecbf.chunk.js",
+    "static/js/2.87b4ecbf.chunk.js.map": "/myreactportfolio/static/js/2.87b4ecbf.chunk.js.map",
+    "static/js/3.13d9ac93.chunk.js": "/myreactportfolio/static/js/3.13d9ac93.chunk.js",
+    "static/js/3.13d9ac93.chunk.js.map": "/myreactportfolio/static/js/3.13d9ac93.chunk.js.map",
+    "index.html": "/myreactportfolio/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/myreactportfolio/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.e4f88c9b.chunk.css.map": "/myreactportfolio/static/css/main.e4f88c9b.chunk.css.map",
+    "static/js/2.87b4ecbf.chunk.js.LICENSE.txt": "/myreactportfolio/static/js/2.87b4ecbf.chunk.js.LICENSE.txt",
+    "static/media/CouchPotatoesAppPage.5fc95639.png": "/myreactportfolio/static/media/CouchPotatoesAppPage.5fc95639.png",
+    "static/media/biopic.8c681c91.png": "/myreactportfolio/static/media/biopic.8c681c91.png",
+    "static/media/burgerpage.2d29a88b.png": "/myreactportfolio/static/media/burgerpage.2d29a88b.png",
+    "static/media/employeedirectory.b8147945.png": "/myreactportfolio/static/media/employeedirectory.b8147945.png",
+    "static/media/googlereactappscreenshot.297155f4.png": "/myreactportfolio/static/media/googlereactappscreenshot.297155f4.png",
+    "static/media/passwordGenerator.ebf47f42.png": "/myreactportfolio/static/media/passwordGenerator.ebf47f42.png",
+    "static/media/planiT.53da83dd.png": "/myreactportfolio/static/media/planiT.53da83dd.png",
+    "static/media/samantha_apuzzo_resume.eff58453.pdf": "/myreactportfolio/static/media/samantha_apuzzo_resume.eff58453.pdf",
+    "static/media/weatherdashboard.acb99fb8.png": "/myreactportfolio/static/media/weatherdashboard.acb99fb8.png",
+    "static/media/workDayScheduler.66f021aa.png": "/myreactportfolio/static/media/workDayScheduler.66f021aa.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db3d49ec.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.87b4ecbf.chunk.js",
+    "static/css/main.e4f88c9b.chunk.css",
+    "static/js/main.5146d16b.chunk.js"
+  ]
+}
