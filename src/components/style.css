@@ -1,0 +1,286 @@
+body {
+    background-color: #fafffe;
+    
+}
+
+/* Navigation bar  */
+.navbar-brand {
+    display: block;
+    background-color: #d285f5;
+    padding: 10px 50px 10px 50px;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.navbar-nav {
+    margin-left: auto;
+    font-size: 30px;
+}
+
+.nav-link {
+    border: none;
+}
+/* Navgation Bar */
+
+/* Footer */
+footer {
+    display: block;
+    width: 100%;
+    padding: 20px;
+    border-top: 5px solid #d285f5;
+    background-color:#616363;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    color: #454545;
+}
+
+.fa {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    font-size: xx-large;
+    color: white;
+}
+
+#copyright {
+    display: inline-block;
+    margin: auto;
+    font-size: 24px;
+    
+}
+
+#socialmedia {
+    display: inline-block;
+    position: absolute;
+    right: 30px;
+    font-size: 24px;
+}
+
+button:hover{
+    color: #f8f8f8;
+}
+
+
+/* Footer */
+
+/* About Me Page */
+.container-fluid {
+    max-width: 80%;
+    margin: auto;
+    margin-top: 10px;
+    padding-right: 45px;
+    padding-bottom: 20px;
+    display: block;
+    background-color: white;
+    margin-bottom: 25px;
+    
+}
+
+h3 {
+    color: #616363;
+    padding: 20px 10px 10px 10px;
+    margin-bottom: -15px;
+    font-size: 40px;
+}
+
+
+#headshot {
+    width: 60%;
+    max-width: 700px;
+    height: auto;
+    float: left;
+    margin: 0px 40px 0px 20px;
+    border-radius: 10%;
+}
+
+#aboutme {
+    min-height: 300px;
+    padding: 0px 20px 0px 20px;
+    margin-bottom: 45px;
+}
+
+p {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.resume {
+    margin-left: 25px;
+    margin-top: 20px;
+    height: 125%;
+    padding-bottom: 20px;
+    
+}
+/* About Me Page */
+
+/* Portfolio Page */
+.portpic {
+    width: 100%;
+    margin: 15px;
+    transition: .5s ease;
+    backface-visibility: hidden;
+}
+
+.col-md-4 {
+    position: relative;
+}
+
+.middle {
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+    }
+
+    .col-md-4:hover .portpic {
+    opacity: 0.3;
+    }
+
+    .col-md-4:hover .middle {
+    opacity: 1;
+    }
+
+    .text {
+    color: black;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #d285f5;
+    padding: 8px 15px 8px 15px;
+    }
+
+/* Portfolio Page */
+
+/* Contact Page */
+    .MyForm {
+        padding: 10px;
+     
+    }
+
+  .sendbutton {
+      background-color: #d285f5;
+      border: none;
+      width: 120px;
+      height: 50px;
+      font-size: 30px;
+      font-family: Arial, Helvetica, sans-serif;
+      margin: 35px;
+  }
+
+  button:hover {
+      border: 2px solid #616363;
+  }
+
+  .formContent {
+     margin-left: 30%
+  }
+
+    label {
+        font-size: 24px;
+    }
+
+    #messageInput {
+        height: 200px;
+    }
+
+  
+  .portpic {
+    margin: 0px;
+    margin-bottom: 15px;
+}
+
+/* Contact Page */
+
+@media all and (max-width: 1020px) {
+    .navbar-brand {
+        padding: 10px;
+        font-size: 40px;
+        font-weight: 800;
+    }
+    
+    .navbar-nav{
+        font-size: 24px;
+    }
+}    
+
+@media all and (max-width: 880px) {  
+    .navbar-brand {
+        padding: 5px, 10px, 5px, 10px;
+        font-size: 34px;
+        font-weight: 500;
+    }
+    
+    .navbar-nav{
+        font-size: 20px;
+    }
+    
+    h3 {
+        font-size: 30px;
+    }
+    
+    p {
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+    }     
+    
+    button {
+        margin: 0px;
+        padding: 4px, 5px;
+        width: 75px;
+    }
+    
+    #copyright {
+        margin: 0px;
+        float: left;
+    }
+}
+
+@media all and (max-width: 380px) {
+    .navbar-brand {
+        padding: 2px, 5px, 2px, 5px;
+        font-size: 24px;
+        font-weight: 400;
+    }
+
+    h3 {
+        font-size: 20px;
+    }
+
+    p {
+        font-size: 16px;
+        font-family: Arial, Helvetica, sans-serif;
+    }   
+
+    button {
+        margin: 0px;
+        padding: 0px;
+        width: 65px;
+        height: 65px;
+    }
+    #copyright {
+        margin: 0px;
+        float: left;
+    }
+    #headshot {
+        width: 100%;
+        padding-bottom: 20px;
+    }
+    .container-fluid {
+        padding-right: 15px;
+    }
+
+    .sendbutton {
+        font-size: 20px;
+        margin: 0px;
+        width: 100px;
+        height: 60px;
+    }
+
+}
